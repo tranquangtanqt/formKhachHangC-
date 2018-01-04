@@ -1,0 +1,13 @@
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\bin\Debug\QuanLyXeMay_KTLTNC.exe
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\bin\Debug\QuanLyXeMay_KTLTNC.pdb
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.Properties.Resources.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.csproj.GenerateResource.Cache
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.exe
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.pdb
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.demo.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.frmMain.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.ucKhachHang.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.csprojResolveAssemblyReference.cache
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.ucNhanVien.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.ucXeMay.resources
+C:\Users\LONG GIA\Desktop\Tan\QuanLyXeMay_KTLTNC\QuanLyXeMay_KTLTNC\obj\x86\Debug\QuanLyXeMay_KTLTNC.ucHoaDon.resources
